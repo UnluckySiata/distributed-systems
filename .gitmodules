@@ -1,0 +1,3 @@
+[submodule "socket-chat"]
+	path = socket-chat
+	url = git@github.com:UnluckySiata/socket-chat.git

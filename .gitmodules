@@ -1,3 +1,6 @@
 [submodule "socket-chat"]
 	path = socket-chat
 	url = git@github.com:UnluckySiata/socket-chat.git
+[submodule "currency-rest"]
+	path = currency-rest
+	url = git@github.com:UnluckySiata/currency-rest.git

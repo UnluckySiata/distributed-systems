@@ -4,3 +4,12 @@
 [submodule "currency-rest"]
 	path = currency-rest
 	url = git@github.com:UnluckySiata/currency-rest.git
+[submodule "smart-home-grpc"]
+	path = smart-home-grpc
+	url = git@github.com:UnluckySiata/smart-home-grpc.git
+[submodule "hospital-mq"]
+	path = hospital-mq
+	url = git@github.com:UnluckySiata/hospital-mq.git
+[submodule "zk-watch"]
+	path = zk-watch
+	url = git@github.com:UnluckySiata/zk-watch.git
